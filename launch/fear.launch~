@@ -1,4 +1,0 @@
-<?xml version="1.0"?>
-<launch>
-  <node pkg="turtlebot" type="love.py" name="turtlebot" output="screen"/>
-</launch>
