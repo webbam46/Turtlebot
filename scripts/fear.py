@@ -2,6 +2,12 @@
 from lib.bvehicle import BVehicle
 import rospy
 
+#
+# Braitenberg Vehicle
+# Fear behaviour implementation
+#
+
+
 #Init
 try:
     #Create the braitenberg vehicle

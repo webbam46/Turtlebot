@@ -21,6 +21,7 @@ import numpy as np
 #
 # GLOBAL VARIABLES FOR CAMERA TOPICS
 #
+
 #KINECT_RGB_TOPIC = "/camera/rgb/image_color"
 KINECT_RGB_TOPIC = "turtlebot_1/camera/rgb/image_raw"
 

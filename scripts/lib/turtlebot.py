@@ -27,6 +27,7 @@ class Control:
         self.w_l = 0
         self.w_r = 0
         rospy.loginfo("Controller created!")
+    #Callback function
     def _callback(self,data):
         print "callback working"
         #Get data
